@@ -26,7 +26,7 @@ This project analyzes and predicts customer churn for a telecommunications compa
    imbalanced-learn
 3. To run the project locally, you need to have Python installed. Clone the repository and install the required libraries using:
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 4. **Usage**
    Run the Jupyter Notebook to see the analysis and predictions:
